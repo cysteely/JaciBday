@@ -17,4 +17,5 @@ img {
 #paragraph {
   text-align: center;
   margin-left: 20px; /* Add some margin to separate the image and paragraph */
+  text-size: 100px;
 }
