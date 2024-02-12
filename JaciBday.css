@@ -1,0 +1,20 @@
+#topic {
+  color: purple;
+  font-size: 50px;
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center; /* Horizontally center the items */
+  align-items: center; /* Vertically center the items */
+}
+
+img {
+  width: 300px;
+}
+
+#paragraph {
+  text-align: center;
+  margin-left: 20px; /* Add some margin to separate the image and paragraph */
+}
